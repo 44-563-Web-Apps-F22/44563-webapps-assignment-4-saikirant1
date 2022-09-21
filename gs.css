@@ -1,0 +1,49 @@
+.speech {
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: black;
+}
+
+.song {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+
+.direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+    background-color: beige;
+}
+.name{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    color: black;
+}
+.direction:hover{
+    background-color:cornsilk;
+    color:violet;
+}
+
+
+/* characters */
+.rob{
+    color: rebeccapurple;
+    font-family: 'CALIBRI', Times, serif;
+    font-size: medium;
+}
+.rob:hover{
+    background-color:bisque;
+    color:red;
+    border: 3px, snow;
+    filter:brightness(2px)
+}
+
+.adam{
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
